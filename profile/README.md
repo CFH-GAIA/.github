@@ -8,17 +8,6 @@ GAIA is Cathay Financial Holding's strategic initiative to drive digital transfo
 
 Cathay Financial Holding is a leading financial services company in Taiwan, providing comprehensive financial solutions including insurance, securities, banking, and investment services.
 
-## Project Goals
-
-The primary goal of GAIA is to **enable the AI platform implementation** for Cathay Financial Holding. This includes:
-
-- Building a comprehensive AI platform architecture
-- Developing and managing reusable AI skills and capabilities
-- Implementing edge agent (Codex) infrastructure
-- Establishing standardized patterns and templates for AI integration
-- Enabling digital transformation and innovation across the organization
-- Maintaining security and compliance standards
-
 ## Repository Structure
 
 ### Core Platform
