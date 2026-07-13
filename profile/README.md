@@ -14,6 +14,7 @@ Cathay Financial Holding is a leading financial services company in Taiwan, prov
 
 #### Repository
 - **[gaia-ai-platform](https://github.com/CFH-GAIA/gaia-ai-platform)** — Main GAIA AI platform repository containing overall architecture design and platform components
+- **[gaia-agent-runtime](https://github.com/CFH-GAIA/gaia-agent-runtime) - Agent Runtime Template
 - **[gaia-skills](https://github.com/CFH-GAIA/gaia-skills)** — GAIA skills implementations and code (Go Template)
 - **[gaia-mcp-template](https://github.com/CFH-GAIA/gaia-mcp-template)** — MCP code template for standardized implementations (Python)
 
